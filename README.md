@@ -1,18 +1,4 @@
-Conversa aberta. Uma mensagem lida.
 
-Pular para o conteúdo
-Como usar o Gmail com leitores de tela
-Ativar as notificações na área de trabalho para o Gmail.
-   OK  Agora não(a)
-
-Receba mais proteção contra phishing
-Ative a Navegação segura com proteção reforçada para aumentar a segurança contra e-mails perigosos
-ContinuarAgora não
-Conversas
-0% de 15 GB usados
-Termos · Privacidade · Regulamentos do programa
-Última atividade da conta: há 5 horas
-Detalhes
 # 🚀 Projeto de Monitoramento de API – Di2win
 
 Este projeto foi desenvolvido pela equipe da **Di2win** com o objetivo de monitorar a estabilidade de APIs utilizadas por soluções baseadas em Inteligência Artificial, fornecendo visibilidade em tempo real de incidentes e facilitando a análise de falhas.
