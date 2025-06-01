@@ -1,7 +1,7 @@
 
 # 🚀 Projeto de Monitoramento de API – Di2win
 
-Este projeto foi desenvolvido pela equipe da **Di2win** com o objetivo de monitorar a estabilidade de APIs utilizadas por soluções baseadas em Inteligência Artificial, fornecendo visibilidade em tempo real de incidentes e facilitando a análise de falhas.
+Este projeto foi desenvolvido pela equipe Jairo Marinho e Ruan Guedes com o objetivo de monitorar a estabilidade de APIs utilizadas por soluções baseadas em Inteligência Artificial, fornecendo visibilidade em tempo real de incidentes e facilitando a análise de falhas.
 
 ---
 
